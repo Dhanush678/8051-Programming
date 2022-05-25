@@ -1,3 +1,0 @@
-MOV A,#05H
-MOV R0,#06H
-MOV R1,#07H
